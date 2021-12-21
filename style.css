@@ -39,3 +39,22 @@ justify-content: center;
 .coupon-card p{
     font-size: 15px;
 }
+.coupon-row{
+display: flex;
+align-items: center;
+margin: 25px auto;
+width: fit-content;
+}
+#cpnBtn{
+    border: 1px solid #fff;
+    background: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+    color: #7158fe;
+
+}
+#cpnCode{
+border:1px dashed #fff;
+padding: 10px 20px;
+border-right:0;
+}
